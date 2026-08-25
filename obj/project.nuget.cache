@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eS0+lmW1hF0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2024102020078\\source\\repos\\AppWebMelissa\\AppWebMelissa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2024102020078\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.7\\microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
