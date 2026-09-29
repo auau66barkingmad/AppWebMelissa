@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\pages\\processos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\pages\\processos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T19:13:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T19:11:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processos\\Index.razor",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\Index.razor",
+              "RelativeToolTip": "Components\\Pages\\Processos\\Index.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T18:15:31.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T18:11:39.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
