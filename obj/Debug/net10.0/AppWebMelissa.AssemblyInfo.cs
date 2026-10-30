@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppWebMelissa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a2565aec3ea948946f1a1ee1a240564dae0346")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79fd19e4f4c85f2edf2e70be2e71b755abce483e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppWebMelissa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppWebMelissa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

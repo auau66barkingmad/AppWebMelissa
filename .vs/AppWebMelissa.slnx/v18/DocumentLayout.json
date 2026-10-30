@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\pages\\processos\\model\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\pages\\processos\\model\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\pages\\processos\\banco de dados\\script_web.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\pages\\processos\\banco de dados\\script_web.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\pages\\processos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|c:\\users\\2024102020078\\documents\\github\\appwebmelissa\\components\\pages\\processos\\banco de dados\\script_web.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{31105AFA-9AA3-B501-F07E-2E69BA07FB3E}|AppWebMelissa.csproj|solutionrelative:components\\pages\\processos\\banco de dados\\script_web.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "processo.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\model\\processo.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processos\\model\\processo.cs",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\model\\processo.cs",
+              "RelativeToolTip": "Components\\Pages\\Processos\\model\\processo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:20:07.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T14:06:11.542Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -38,20 +80,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "script_web.sql ",
+              "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\banco de dados\\script_web.sql",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processos\\banco de dados\\script_web.sql",
+              "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\banco de dados\\script_web.sql",
+              "RelativeToolTip": "Components\\Pages\\Processos\\banco de dados\\script_web.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T14:16:47.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-25T19:13:43.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -63,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Pages\\Processos\\Index.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Processos\\Index.razor",
@@ -75,13 +129,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\2024102020078\\Documents\\GitHub\\AppWebMelissa\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-25T18:11:39.968Z",
               "EditorCaption": ""
